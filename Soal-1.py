@@ -9,4 +9,4 @@ umur = int(input("Masukkan umur: "))
 tinggi = float(input("Masukkan tinggi: "))
  
 # Menampilkan Program
-print('Nama saya {0}, umur saya {1}, tahun dan tinggi saya {2} cm'.format(nama, umur, tinggi))
+print('Nama saya {}, umur saya {}, tahun dan tinggi saya {} cm'.format(nama, umur, tinggi))
