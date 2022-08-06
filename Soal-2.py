@@ -9,7 +9,7 @@
 r = float(input('Tulis Jari-Jari Lingkaran: '))
 
 # Hitung Luas Lingkaran
-luas = ((22 / 7) * r) ** 2
+luas = (22 / 7) * r ** 2
  
 #Menampilkan Hasil Perhitungan
 print('Luas lingkaran dengan jari-jari %0.2f cm adalah %0.2f cm'%(r, luas))
